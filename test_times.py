@@ -1,6 +1,6 @@
 from times import time_range, compute_overlap_time
 
-def test_overlap_time():
+def test_given_input():
     large = time_range("2010-01-12 10:00:00",
                        "2010-01-12 12:00:00")
 
